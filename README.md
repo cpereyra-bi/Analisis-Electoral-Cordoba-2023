@@ -1,6 +1,3 @@
-# Análisis Electoral Córdoba 2023
-## Descripción
-
 Este proyecto realiza un análisis detallado de los resultados oficiales de las elecciones a Gobernador y Vicegobernador en la Provincia de Córdoba, Argentina, celebradas en 2023. Utilizando datos abiertos del Observatorio Electoral, se procesan y visualizan los votos obtenidos por cada agrupación política a nivel provincial y por departamento.
 
 El análisis busca no solo presentar los resultados, sino también ofrecer insights sobre la distribución del voto, tendencias regionales y participación electoral, contribuyendo a una mejor comprensión del comportamiento político local.
